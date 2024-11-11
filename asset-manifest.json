@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eco-tracker/static/css/main.947fa957.css",
+    "main.js": "/eco-tracker/static/js/main.5653eded.js",
+    "static/js/453.53c0d257.chunk.js": "/eco-tracker/static/js/453.53c0d257.chunk.js",
+    "index.html": "/eco-tracker/index.html",
+    "main.947fa957.css.map": "/eco-tracker/static/css/main.947fa957.css.map",
+    "main.5653eded.js.map": "/eco-tracker/static/js/main.5653eded.js.map",
+    "453.53c0d257.chunk.js.map": "/eco-tracker/static/js/453.53c0d257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947fa957.css",
+    "static/js/main.5653eded.js"
+  ]
+}
